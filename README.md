@@ -171,6 +171,14 @@ Want to build the next "AI unicorn"? Here's your roadmap:
 
 ---
 
+## 📸 Screenshots
+
+### The Brutal Truth Dashboard
+![Reality Check](screenshots/reality-check.png)
+
+### The Actual Interface
+![Main Interface](screenshots/main-interface.png)
+---
 ## 🤝 Contributing
 
 Found bugs? Want to add more AI providers? PRs welcome!
