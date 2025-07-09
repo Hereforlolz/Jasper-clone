@@ -8,7 +8,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 # Page config
 st.set_page_config(
-    page_title="Jasper AI Clone - $1.5B in 100 Lines",
+    page_title="Jasper AI Clone - $1.5B in 500 Lines",
     page_icon="📝",
     layout="wide"
 )
@@ -320,7 +320,7 @@ def call_huggingface(prompt, api_key, model_url=None):
         return f"Hugging Face API error: {str(e)}"
 
 # Main UI
-st.title("🚀 Jasper AI Clone - $1.5B in 100 Lines")
+st.title("🚀 Jasper AI Clone - $1.5B in 500 Lines")
 
 st.markdown("""
 ### The $1.5B Content Writer That's Just Templates + API Calls
