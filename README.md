@@ -1,4 +1,4 @@
-# 🚀 Jasper AI Clone - $1.5B in 1500 Lines
+# 🚀 Jasper AI Clone - $1.5B in 500 Lines
 
 > The $1.5B AI writing assistant? Yeah... I rebuilt it in under 2 hours using templates, API calls, and pure spite.
 
