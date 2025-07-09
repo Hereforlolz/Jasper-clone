@@ -13,7 +13,7 @@ This project is a reality check disguised as a rebuild.
 So I rebuilt their **entire business model** in:
 - ⏱ ~2 hours 
 - 💸 $0 (uses free API tiers)
-- 📝 ~200 lines of Python
+- 📝 ~500 lines of Python
 - 🤖 Multiple AI providers (OpenAI, Claude, Gemini, Hugging Face)
 
 ### The goal?  
@@ -150,7 +150,7 @@ No API keys? No problem. The mock system uses:
 
 ### The Numbers Don't Lie:
 - **Development Time**: ~2 hours
-- **Lines of Code**: ~200
+- **Lines of Code**: ~500
 - **API Costs**: $0 (free tiers)
 - **Jasper's Funding**: $125M
 - **Your Take**: Where's MY $125M? 🤔
