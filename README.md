@@ -1,7 +1,3 @@
-Got it — here’s your **Jasper Clone README** styled like your TikTok script generator example: casual, punchy, no fluff, with that “hire me” vibe at the bottom. I’ve kept it original and direct, just like you want.
-
----
-
 # 🚀 Jasper AI Clone — \$1.5B in 500 Lines
 
 > The billion-dollar AI writing assistant? I rebuilt it in under 2 hours using just templates, API calls, and a bit of spite.
